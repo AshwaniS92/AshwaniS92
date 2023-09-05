@@ -1,6 +1,6 @@
 # Hi there, I'm Ashwani Sherawat! 👋
 
-I'm a Data Analyst based in (+49 15252810167). Welcome to my GitHub profile! 
+I'm a Data Analyst based in Hamburg,Germanz. Welcome to my GitHub profile! 
 
 ## About Me
 
