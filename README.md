@@ -37,7 +37,7 @@ Hi there! 👋 I'm passionate about leveraging technology and data to create imp
 
 ### 3. **Portfolio Website**  
 🌐 **Description**: A dynamic, modern website showcasing my professional portfolio, including interactive dashboards and projects.  
-🔗 **Repo**: [Portfolio Website](#)
+🔗 **Repo**: [Portfolio Website](https://www.ashwani-sherawat.com/)
 
 ---
 
@@ -51,7 +51,6 @@ Hi there! 👋 I'm passionate about leveraging technology and data to create imp
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: [Your LinkedIn Profile](#)
 - **Kaggle**: You can visit my [profile](https://www.kaggle.com/ashwanisherawat)
 
 ---
