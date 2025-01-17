@@ -70,6 +70,7 @@ Hi there! 👋 I'm passionate about leveraging technology and data to create imp
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshwaniS92&show_icons=true&theme=radical)
+
 ---
 ## 🌟 Featured Projects
 
@@ -84,7 +85,9 @@ Hi there! 👋 I'm passionate about leveraging technology and data to create imp
 ### 3. **Portfolio Website**  
 🌐 **Description**: A dynamic, modern website showcasing my professional portfolio, including interactive dashboards and projects.  
 🔗 **Repo**: [Portfolio Website](https://www.ashwani-sherawat.com/)
+
 ---
+
 ## 📅 Current Goals
 
 - 🎯 Achieving Kaggle Grandmaster status
