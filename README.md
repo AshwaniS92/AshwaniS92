@@ -67,8 +67,6 @@ Hi there! 👋 I'm passionate about leveraging technology and data to create imp
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-
-### Tools & Platforms
 ![Jupyter Lab](https://img.shields.io/badge/Jupyter%20Lab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -96,7 +94,6 @@ Hi there! 👋 I'm passionate about leveraging technology and data to create imp
 
 ---
 
-
 ## 📅 Current Goals
 
 - 🎯 Achieving Kaggle Grandmaster status
@@ -108,6 +105,7 @@ Hi there! 👋 I'm passionate about leveraging technology and data to create imp
 ## 📫 Let's Connect
 
 - **Kaggle**: You can visit my [profile](https://www.kaggle.com/ashwanisherawat)
+- **Email**: You can send me a [Email](www.ashwani.sherawat@gmail.com)
 
 ---
 
