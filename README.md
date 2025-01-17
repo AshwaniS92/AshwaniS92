@@ -1,21 +1,16 @@
 # Welcome to My GitHub Profile!
 
 Hi there! 👋 I'm passionate about leveraging technology and data to create impactful solutions. Here's a little bit about me and what you can find on my profile:
-
 ---
-
 ## 🚀 About Me
 
 - 💻 Certified Data Analyst
-- 💻 Python enthusiast and data scientist
+- 🌟 Aspiring data scientist and Python enthusiast
+- 🌐 Actively building a professional portfolio to showcase my work
 - 🌎 Focused on projects that blend data analysis, visualization, and predictive modeling
 - 🔧 Currently building a scalable bike rental dashboard with **Streamlit** and **Kepler.gl**
 - 📈 Experienced in integrating data with real-time APIs, especially in weather and transportation domains
-- 🌐 Actively building a professional portfolio to showcase my work
-- 🌟 Aspiring Kaggle Grandmaster
-
 ---
-
 ## 🛠 Technical Skills
 
 ### Programming Languages
@@ -75,9 +70,7 @@ Hi there! 👋 I'm passionate about leveraging technology and data to create imp
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshwaniS92&show_icons=true&theme=radical)
-
 ---
-
 ## 🌟 Featured Projects
 
 ### 1. **Citi Bike Dashboard**  
@@ -91,9 +84,7 @@ Hi there! 👋 I'm passionate about leveraging technology and data to create imp
 ### 3. **Portfolio Website**  
 🌐 **Description**: A dynamic, modern website showcasing my professional portfolio, including interactive dashboards and projects.  
 🔗 **Repo**: [Portfolio Website](https://www.ashwani-sherawat.com/)
-
 ---
-
 ## 📅 Current Goals
 
 - 🎯 Achieving Kaggle Grandmaster status
@@ -106,7 +97,6 @@ Hi there! 👋 I'm passionate about leveraging technology and data to create imp
 
 - **Kaggle**: You can visit my [profile](https://www.kaggle.com/ashwanisherawat)
 - **Email**: You can send me a [Email](www.ashwani.sherawat@gmail.com)
-
 ---
 
 Thank you for visiting my profile! Feel free to explore my repositories, and don't hesitate to reach out for collaborations or feedback. 🚀
